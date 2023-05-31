@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "type_traits": "c",
+        "sbi.h": "c",
+        "test_priority": "c",
+        "test3.h": "c",
+        "stdio.h": "c",
+        "cstdlib": "c",
+        "sched.h": "c",
+        "lock.h": "c"
+    }
+}

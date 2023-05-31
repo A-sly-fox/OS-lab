@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "type_traits": "c",
+        "sbi.h": "c",
+        "test_priority": "c",
+        "test3.h": "c",
+        "stdio.h": "c",
+        "cstdlib": "c",
+        "mm.h": "c",
+        "pgtable.h": "c",
+        "type.h": "c",
+        "sched.h": "c",
+        "xstatus.h": "c",
+        "xbasic_types.h": "c",
+        "irq.h": "c",
+        "xemacps_example.h": "c"
+    }
+}
